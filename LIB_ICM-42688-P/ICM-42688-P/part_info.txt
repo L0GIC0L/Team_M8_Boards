@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=ICM-42688-P
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=14
+Version=4.1
+Released=2022-02-22 15:03:41
+Downloaded=2024-10-01 13:01:05
+3D=Y
